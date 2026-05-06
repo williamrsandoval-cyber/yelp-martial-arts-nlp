@@ -6,7 +6,7 @@
 > A natural language analysis of **3,212 Yelp reviews** across **265 martial arts businesses**, comparing six NLP methods to identify the language patterns that distinguish satisfied from dissatisfied customers — with directly actionable findings for school owners.
 
 **Author:** William Sandoval
-**Program:** MS Applied Information Behavior, Arizona State University
+**Program:** MS Artificial Intelligence in Business, Arizona State University
 **Course:** Final Project — NLP for Business Applications
 **Owner:** [Patriot Martial Arts Academy](https://patriotmartialartsacademy.com) (Brazilian Jiu-Jitsu + Machida Karate)
 
