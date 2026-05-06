@@ -1,3 +1,6 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/williamrsandoval-cyber/yelp-martial-arts-nlp/blob/main/ProjectFinal_Sandoval_William_GitHub.ipynb)
+
+
 # What Drives Enrollment Decisions in Martial Arts Schools?
 
 > A natural language analysis of **3,212 Yelp reviews** across **265 martial arts businesses**, comparing six NLP methods to identify the language patterns that distinguish satisfied from dissatisfied customers — with directly actionable findings for school owners.
@@ -84,7 +87,7 @@ The TF-IDF + Linear SVM also achieved **96.3% overall accuracy** on a 643-review
 ├── requirements.txt                           # Python dependencies
 ├── LICENSE                                    # MIT
 ├── .gitignore                                 # Standard Python + Jupyter
-├── ProjectFinal_Sandoval_William_v2.ipynb     # Main notebook
+├── ProjectFinal_Sandoval_William_GitHub.ipynb     # Main notebook
 ├── presentation/
 │   └── Sandoval_Final_Presentation_v2.pptx    # Slide deck
 └── data/
@@ -109,7 +112,7 @@ The TF-IDF + Linear SVM also achieved **96.3% overall accuracy** on a 643-review
 
 2. Obtain the Yelp dataset (see `data/README.md` for instructions). Filter locally and place `business_filtered.csv` and `reviews_filtered.csv` in the working directory.
 
-3. Open `ProjectFinal_Sandoval_William_v2.ipynb` in Colab (`File → Open notebook → GitHub`).
+3. Open `ProjectFinal_Sandoval_William_GitHub.ipynb` in Colab (`File → Open notebook → GitHub`).
 
 4. Set runtime to T4 GPU (`Runtime → Change runtime type → T4 GPU`).
 
@@ -118,7 +121,7 @@ The TF-IDF + Linear SVM also achieved **96.3% overall accuracy** on a 643-review
 ### Local installation
 ```bash
 pip install -r requirements.txt
-jupyter notebook ProjectFinal_Sandoval_William_v2.ipynb
+jupyter notebook ProjectFinal_Sandoval_William_GitHub.ipynb
 ```
 
 Note that running Llama 3.2 locally requires a separate [Ollama](https://ollama.com) installation.
