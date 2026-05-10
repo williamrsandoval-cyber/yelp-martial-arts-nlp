@@ -169,4 +169,4 @@ MIT License — see `LICENSE` for details. The Yelp dataset itself is governed b
 
 ## Acknowledgments
 
-Built as part of the MS Applied Information Behavior program at Arizona State University. The personal motivation for this project comes from the author's experience as the owner of Patriot Martial Arts Academy.
+Built as part of the MS Artificial Intelligence in Business program at Arizona State University. The personal motivation for this project comes from the author's experience as the owner of Patriot Martial Arts Academy.
